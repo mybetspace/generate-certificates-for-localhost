@@ -21,7 +21,7 @@ You can use the same certificate files on front-end and back-end, just copy the 
 ### Linux
 
 1. Create a file named `ssh.sh` in a directory of your choice. Or download the `ssh.sh` file from this repository and skip step 2 as well;
-2. Put this script inside the file
+2. Put this script inside the file `ssh.sh` that you created:
 
 ```bash
 #! /bin/bash
