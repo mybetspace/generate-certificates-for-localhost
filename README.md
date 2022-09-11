@@ -1,6 +1,6 @@
 ## Generating Certificates to run HTTPS locally
 
-You can use the same certificate files on front-end and back-end, just copy the files as the [last topic](https://github.com/mybetspace/generate-certificates-for-localhost/edit/main/README.md#after-generate-the-certificate-for-both-1) says.
+You can use the same certificate files on front-end and back-end, just copy the files after generate them as the [last topic](https://github.com/mybetspace/generate-certificates-for-localhost/edit/main/README.md#after-generate-the-certificate-for-both-1) says.
 
 ### Windows
 
