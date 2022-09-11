@@ -140,8 +140,8 @@ After generate the files, create in the project root a folder named `certs` and 
 
 ### Linux
 
-1. Create a file named `ssh.sh` in a directory of your choice;
-2. Put this script inside the file:
+1. Create a file named `ssh.sh` in a directory of your choice. Or download the `ssh.sh` file from this repository and skip step 2 as well;
+2. Put this script inside the file
 
 ```bash
 #! /bin/bash
